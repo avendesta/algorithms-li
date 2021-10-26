@@ -1,2 +1,2 @@
-# algorithm-Lie
+# algorithm-Li
 Algorithm course by Mei Li
